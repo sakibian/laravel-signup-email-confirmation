@@ -19,9 +19,10 @@ Verify User with email activation.
 * Verifying User Functionality (Route and Controller Method)
 
 * Restricting Un-Verified User Access
-  \*Modifying LoginController.php and override the authenticated method from AuthenticatesUsers
 
-  \*Modify RegisterController.php and override the registered method from RegistersUsers
+\*Modifying LoginController.php and override the authenticated method from AuthenticatesUsers
+
+\*Modify RegisterController.php and override the registered method from RegistersUsers
 
 ## Fresh New Laravel 5.6 Project
 
